@@ -13,12 +13,18 @@
     <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verseck&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
-### Sobre:
+### Sobre: 
+  Desde criança sempre tive um apreço por tecnologia e me dediquei a aprender por conta própria algumas linguagens de programação , hoje com ajuda do instituto PROA estou em constante desenvolvimento e aprendizado na area da programação!
 
-
-### Linkedln:
-<a href="https://www.linkedin.com/in/verseck/">
-<img align="center" alt="HTML" height="30" width="40" title="linkedln" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+### Contatos:
+ 
+ <a href="https://www.linkedin.com/in/verseck/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+ 
+ <a href="mailto:rafaverseck@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
 ### Habilidades:
  
