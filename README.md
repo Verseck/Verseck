@@ -1,8 +1,5 @@
 ### Olá eu sou o Raphael Verseck e seja Bem vindo ao meu Perfil👋
 
-<!--
-
-
 
 <div align="center">
   <a href="https://github.com/Verseck/">
