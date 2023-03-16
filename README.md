@@ -17,7 +17,7 @@
 
 
 ### Linkedln:
-<a href="https://www.linkedin.com/in/raphael-verseck-soleo-dos-santos-b58305207/">
+<a href="https://www.linkedin.com/in/verseck/">
 <img align="center" alt="HTML" height="30" width="40" title="linkedln" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
 ### Habilidades:
