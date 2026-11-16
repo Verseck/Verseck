@@ -53,13 +53,12 @@ e outros.
 - Geração de título, descrição, tags e thumbnail
 
 ### 💬 [ProspectorWhatsApp]
-[Descreva em uma frase: ex. "Bot que encontra e aborda potenciais clientes pelo WhatsApp
-com mensagens personalizadas por IA".]
-- [Principal funcionalidade]
-- [Tecnologias usadas]
+Bot que encontra e aborda potenciais clientes pelo WhatsApp
+com mensagens personalizadas por IA.
+
 
 ### 🧩 [Projeto OutSystems]
-[Ex.: aplicação Reactive com login, perfis de acesso, integração REST e dashboard.]
+Desenvolvimento de aplicações WEB, utilizando Reactive e Traditional.
 
 ## 🛠️ Tecnologias
 
