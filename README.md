@@ -35,7 +35,7 @@ repetitivas das mãos das pessoas. Também desenvolvo aplicações com **OutSyst
 
 ## 📂 Projetos em destaque
 
-### 🎬 Explicado no Giz: canal de YouTube 100% automatizado
+### 🎬 canal de YouTube 100% automatizado
 Sistema que produz vídeos longos (11 a 20 min) explicando economia, golpes financeiros e
 história do dinheiro em estilo "desenho de giz na lousa".
 - Pesquisa automática na **Wikipédia** → roteiro gerado por **IA local** → revisão e
