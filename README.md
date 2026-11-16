@@ -71,7 +71,7 @@ Desenvolvimento de aplicações WEB, utilizando Reactive e Traditional.
 ![Text-to-Speech](https://img.shields.io/badge/Voz_com_IA-0A66C2?style=for-the-badge)
 
 **Desenvolvimento**
-
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![OutSystems](https://img.shields.io/badge/OutSystems-CC2128?style=for-the-badge&logo=outsystems&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -87,10 +87,3 @@ Desenvolvimento de aplicações WEB, utilizando Reactive e Traditional.
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-### Habilidades:
- 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
